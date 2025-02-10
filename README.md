@@ -1,4 +1,4 @@
-bank account management simulator program
+bank account management simulator program.
 
 Project objectives:
 
